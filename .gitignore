@@ -1,2 +1,3 @@
 webmaps/env.js
-webmaps/libs/
+webmaps/libs/lea*
+webmaps/libs/Lea*
