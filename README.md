@@ -14,7 +14,7 @@ wget -q https://leafletjs-cdn.s3.amazonaws.com/content/leaflet/v1.8.0/leaflet.zi
 unzip -q webmaps/libs/leaflet.zip -d webmaps/libs/leaflet/
 ```
 
-**Obs:** Para facilitar a vida de quem usa linux criei o arquivo `download_files.sh
+**Obs:** Para facilitar a vida de quem usa linux criei o arquivo `download_files.sh`
 
 ## Arquivo de configuração
 
