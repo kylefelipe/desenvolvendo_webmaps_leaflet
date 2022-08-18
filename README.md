@@ -1,6 +1,6 @@
 # Exercícios do livro Desenvolvendo Webmaps
 
-Pelo bem desse repositório, estou usando o leaflet na pasta `webmaps/libs` para não duplicar sempre que um novo webmap for iniciado.
+Pelo bem desse repositório, estou usando o leaflet na pasta `webmaps/libs` para não duplicar sempre que um novo webmap for iniciado.  
 Farei o mesmo para outras pastas/bibliotecas/arquivos que forem sendo usada no decorrer do estudo.
 
 O leaflet pode ser baixado no seguinte endereço:
