@@ -1,0 +1,300 @@
+{
+  "features":[
+    {
+      "geometry":{"coordinates":[-43.899374,-19.69188],"type":"Point"},
+      "id":38,
+      "properties":{"descricao":"Ponto criado de número: 38","id":"38","nome":"Ponto :  38"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.88364,-19.690795],"type":"Point"},
+      "id":37,
+      "properties":{"descricao":"Ponto criado de número: 37","id":"37","nome":"Ponto :  37"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.875231,-19.691066],"type":"Point"},
+      "id":36,
+      "properties":{"descricao":"Ponto criado de número: 36","id":"36","nome":"Ponto :  36"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.854615,-19.676418],"type":"Point"},
+      "id":59,
+      "properties":{"descricao":"Ponto criado de número: 59","id":"59","nome":"Ponto :  59"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.872518,-19.663668],"type":"Point"},
+      "id":58,
+      "properties":{"descricao":"Ponto criado de número: 58","id":"58","nome":"Ponto :  58"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.851631,-19.641424],"type":"Point"},
+      "id":57,
+      "properties":{"descricao":"Ponto criado de número: 57","id":"57","nome":"Ponto :  57"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.84946,-19.618909],"type":"Point"},
+      "id":56,
+      "properties":{"descricao":"Ponto criado de número: 56","id":"56","nome":"Ponto :  56"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.905884,-19.602633],"type":"Point"},
+      "id":51,
+      "properties":{"descricao":"Ponto criado de número: 51","id":"51","nome":"Ponto :  51"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.897204,-19.6105],"type":"Point"},
+      "id":50,
+      "properties":{"descricao":"Ponto criado de número: 50","id":"50","nome":"Ponto :  50"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.965021,-19.581745],"type":"Point"},
+      "id":49,
+      "properties":{"descricao":"Ponto criado de número: 49","id":"49","nome":"Ponto :  49"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.954441,-19.577405],"type":"Point"},
+      "id":48,
+      "properties":{"descricao":"Ponto criado de número: 48","id":"48","nome":"Ponto :  48"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.855157,-19.588256],"type":"Point"},
+      "id":55,
+      "properties":{"descricao":"Ponto criado de número: 55","id":"55","nome":"Ponto :  55"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.870619,-19.58907],"type":"Point"},
+      "id":54,
+      "properties":{"descricao":"Ponto criado de número: 54","id":"54","nome":"Ponto :  54"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.856513,-19.615383],"type":"Point"},
+      "id":53,
+      "properties":{"descricao":"Ponto criado de número: 53","id":"53","nome":"Ponto :  53"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.88147,-19.627861],"type":"Point"},
+      "id":52,
+      "properties":{"descricao":"Ponto criado de número: 52","id":"52","nome":"Ponto :  52"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.934367,-19.620537],"type":"Point"},
+      "id":11,
+      "properties":{"descricao":"Ponto criado de número: 11","id":"11","nome":"Ponto :  11"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.934639,-19.586628],"type":"Point"},
+      "id":10,
+      "properties":{"descricao":"Ponto criado de número: 10","id":"10","nome":"Ponto :  10"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.921075,-19.644137],"type":"Point"},
+      "id":9,
+      "properties":{"descricao":"Ponto criado de número: 9","id":"9","nome":"Ponto :  9"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.921618,-19.605074],"type":"Point"},
+      "id":8,
+      "properties":{"descricao":"Ponto criado de número: 8","id":"8","nome":"Ponto :  8"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.862753,-19.68537],"type":"Point"},
+      "id":15,
+      "properties":{"descricao":"Ponto criado de número: 15","id":"15","nome":"Ponto :  15"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.91348,-19.684013],"type":"Point"},
+      "id":14,
+      "properties":{"descricao":"Ponto criado de número: 14","id":"14","nome":"Ponto :  14"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.91565,-19.66828],"type":"Point"},
+      "id":13,
+      "properties":{"descricao":"Ponto criado de número: 13","id":"13","nome":"Ponto :  13"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.944947,-19.639525],"type":"Point"},
+      "id":12,
+      "properties":{"descricao":"Ponto criado de número: 12","id":"12","nome":"Ponto :  12"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.942505,-19.57849],"type":"Point"},
+      "id":3,
+      "properties":{"descricao":"Ponto criado de número: 3","id":"3","nome":"Ponto :  3"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.935724,-19.55272],"type":"Point"},
+      "id":2,
+      "properties":{"descricao":"Ponto criado de número: 2","id":"2","nome":"Ponto :  2"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.956883,-19.553534],"type":"Point"},
+      "id":1,
+      "properties":{"descricao":"Ponto criado de número: 1","id":"1","nome":"Ponto :  1"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.904799,-19.587713],"type":"Point"},
+      "id":7,
+      "properties":{"descricao":"Ponto criado de número: 7","id":"7","nome":"Ponto :  7"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.901001,-19.619994],"type":"Point"},
+      "id":6,
+      "properties":{"descricao":"Ponto criado de número: 6","id":"6","nome":"Ponto :  6"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.949016,-19.603176],"type":"Point"},
+      "id":5,
+      "properties":{"descricao":"Ponto criado de número: 5","id":"5","nome":"Ponto :  5"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.954441,-19.585543],"type":"Point"},
+      "id":4,
+      "properties":{"descricao":"Ponto criado de número: 4","id":"4","nome":"Ponto :  4"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.875231,-19.643323],"type":"Point"},
+      "id":27,
+      "properties":{"descricao":"Ponto criado de número: 27","id":"27","nome":"Ponto :  27"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.903172,-19.653089],"type":"Point"},
+      "id":26,
+      "properties":{"descricao":"Ponto criado de número: 26","id":"26","nome":"Ponto :  26"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.889608,-19.670993],"type":"Point"},
+      "id":25,
+      "properties":{"descricao":"Ponto criado de número: 25","id":"25","nome":"Ponto :  25"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.885268,-19.662312],"type":"Point"},
+      "id":24,
+      "properties":{"descricao":"Ponto criado de número: 24","id":"24","nome":"Ponto :  24"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.838338,-19.620808],"type":"Point"},
+      "id":31,
+      "properties":{"descricao":"Ponto criado de número: 31","id":"31","nome":"Ponto :  31"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.864651,-19.626505],"type":"Point"},
+      "id":30,
+      "properties":{"descricao":"Ponto criado de número: 30","id":"30","nome":"Ponto :  30"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.877944,-19.60209],"type":"Point"},
+      "id":29,
+      "properties":{"descricao":"Ponto criado de número: 29","id":"29","nome":"Ponto :  29"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.860311,-19.596936],"type":"Point"},
+      "id":28,
+      "properties":{"descricao":"Ponto criado de número: 28","id":"28","nome":"Ponto :  28"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.836168,-19.692965],"type":"Point"},
+      "id":19,
+      "properties":{"descricao":"Ponto criado de número: 19","id":"19","nome":"Ponto :  19"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.848918,-19.678588],"type":"Point"},
+      "id":18,
+      "properties":{"descricao":"Ponto criado de número: 18","id":"18","nome":"Ponto :  18"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.816095,-19.697577],"type":"Point"},
+      "id":17,
+      "properties":{"descricao":"Ponto criado de número: 17","id":"17","nome":"Ponto :  17"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.855157,-19.698119],"type":"Point"},
+      "id":16,
+      "properties":{"descricao":"Ponto criado de número: 16","id":"16","nome":"Ponto :  16"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.892863,-19.640068],"type":"Point"},
+      "id":23,
+      "properties":{"descricao":"Ponto criado de número: 23","id":"23","nome":"Ponto :  23"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.844849,-19.643052],"type":"Point"},
+      "id":22,
+      "properties":{"descricao":"Ponto criado de número: 22","id":"22","nome":"Ponto :  22"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.814738,-19.657429],"type":"Point"},
+      "id":21,
+      "properties":{"descricao":"Ponto criado de número: 21","id":"21","nome":"Ponto :  21"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.831557,-19.692694],"type":"Point"},
+      "id":20,
+      "properties":{"descricao":"Ponto criado de número: 20","id":"20","nome":"Ponto :  20"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.928942,-19.6341],"type":"Point"},
+      "id":43,
+      "properties":{"descricao":"Ponto criado de número: 43","id":"43","nome":"Ponto :  43"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.937894,-19.671535],"type":"Point"},
+      "id":42,
+      "properties":{"descricao":"Ponto criado de número: 42","id":"42","nome":"Ponto :  42"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.931383,-19.663668],"type":"Point"},
+      "id":41,
+      "properties":{"descricao":"Ponto criado de número: 41","id":"41","nome":"Ponto :  41"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.916735,-19.659328],"type":"Point"},
+      "id":40,
+      "properties":{"descricao":"Ponto criado de número: 40","id":"40","nome":"Ponto :  40"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.936537,-19.568453],"type":"Point"},
+      "id":47,
+      "properties":{"descricao":"Ponto criado de número: 47","id":"47","nome":"Ponto :  47"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.920804,-19.564927],"type":"Point"},
+      "id":46,
+      "properties":{"descricao":"Ponto criado de número: 46","id":"46","nome":"Ponto :  46"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.927043,-19.586628],"type":"Point"},
+      "id":45,
+      "properties":{"descricao":"Ponto criado de número: 45","id":"45","nome":"Ponto :  45"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.918634,-19.62759],"type":"Point"},
+      "id":44,
+      "properties":{"descricao":"Ponto criado de número: 44","id":"44","nome":"Ponto :  44"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.868992,-19.681029],"type":"Point"},
+      "id":35,
+      "properties":{"descricao":"Ponto criado de número: 35","id":"35","nome":"Ponto :  35"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.856242,-19.658243],"type":"Point"},
+      "id":34,
+      "properties":{"descricao":"Ponto criado de número: 34","id":"34","nome":"Ponto :  34"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.831286,-19.667466],"type":"Point"},
+      "id":33,
+      "properties":{"descricao":"Ponto criado de número: 33","id":"33","nome":"Ponto :  33"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.829387,-19.637084],"type":"Point"},
+      "id":32,
+      "properties":{"descricao":"Ponto criado de número: 32","id":"32","nome":"Ponto :  32"},"type":"Feature"
+    },
+    {
+      "geometry":{"coordinates":[-43.900188,-19.672349],"type":"Point"},
+      "id":39,
+      "properties":{"descricao":"Ponto criado de número: 39","id":"39","nome":"Ponto :  39"},"type":"Feature"
+    }
+  ],
+  "type":"FeatureCollection"
+}

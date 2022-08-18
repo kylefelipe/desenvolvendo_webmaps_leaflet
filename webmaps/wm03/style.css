@@ -1,0 +1,24 @@
+#mapa {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  margin: 0;
+  width: 50%;
+  height: 50%;
+}
+
+.table-marker-info , tr, td, th {
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #4a8585;
+}
+
+tr {
+  background-color: #ddecec;
+}
+
+tr:nth-child(even) {
+  background-color: #9ad4d4;
+}

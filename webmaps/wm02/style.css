@@ -1,0 +1,12 @@
+#mapa {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  margin: 0;
+  width: 50%;
+  height: 50%;
+}
+
+.marker-info {
+  border: 1px, solid black;
+}
