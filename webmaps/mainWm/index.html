@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="../libs/leaflet/leaflet.css" />
+    <script src="../libs/leaflet/leaflet.js"></script>
+    <script src="../libs/Leaflet.MakiMarkers/Leaflet.MakiMarkers.js"></script>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <link
+      rel="stylesheet"
+      href="../libs/Leaflet.markercluster/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="../libs/Leaflet.markercluster/dist/MarkerCluster.Default.css"
+    />
+    <script src="../libs/Leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
+    <script src="../libs/leaflet.markercluster.layersupport.js"></script>
+    <script type="text/javascript" src="../env.js"></script>
+    <script type="text/javascript" src="../helpers/popupTable.js"></script>
+    <title>Viveiros</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="filter-container">
+        <div>
+          <h1 class="titulo-site">Viveiros</h1>
+        </div>
+        <div class="filter-properies filter-item-container">
+          <label class="filter-label filter-item" for="filtro-pontos"> Filtrar Pontos</label>
+          <select class="filter-item" name="filtro-pontos" id="filtro-pontos">
+            <option value="" selected>Escolha um Campo</option>
+          </select>
+        </div>
+        <div class="filter-value filter-item-container">
+          <label class="filter-label filter-item" for="filtro-pontos-value">Valor</label>
+          <input
+            class="filter-item"
+            type="text"
+            name="filtro-pontos-value"
+            id="filtro-pontos-value"
+            disabled
+          />
+        </div>
+      </div>
+    <div class="map-items-container">
+      <div class="map" id="mapa"></div>
+      <div class="legend-container">
+        <div class="legend-item">
+          <img class="img-legenda" src="../images/arvorezinha.png" alt="Icone Viveiros">
+          <h2 class="legend-item-name">VIVEIROS</h2>
+          <p class="legend-item-text">Cadastrados</p>
+        </div>
+        <div class="legend-item">
+          <img class="legend-icon pin" id="lagoa-santa" alt="Lagoa Santa">
+          <h2 class="legend-item-name">Lagoa Santa</h2>
+          <p class="legend-item-text">Ponto oficial do IBGE</p>
+        </div>
+        <div class="legend-item">
+          <span class="legend-icon blue material-symbols-rounded" id="legend-municipio" alt="Municipio">rectangle</span>
+          <h2 class="legend-item-name">Lagoa Santa</h2>
+          <p class="legend-item-text">Limite Municipal</p>
+        </div>
+        <div class="legend-item">
+          <h2 class="legend-item-name">Bases de fundo</h2>
+          <p class="legend-item-text">MapBox - Streets</p>
+          <p class="legend-item-text">Thunder - Landscape</p>
+          <p class="legend-item-text">OpenStreetMaps*</p>
+          <p class="legend-item-text">Satélite - OSM</p>
+        </div>
+      </div>
+    </div>
+    </div>
+    <!-- Fields data -->
+    <!-- Pegando os dados dos campos dos vetores -->
+    <script type="text/javascript" src="../helpers/vector_fields.js"></script>
+
+    <!-- Vector layers -->
+    <script type="text/javascript" src="../dados/lim_municipio_a.js"></script>
+    <script type="text/javascript" src="../dados/pontos_2.js"></script>
+    <!-- Main script -->
+    <script type="text/javascript" src="index.js"></script>
+  </body>
+</html>
