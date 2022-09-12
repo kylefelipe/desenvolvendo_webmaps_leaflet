@@ -16,6 +16,10 @@ unzip -q webmaps/libs/leaflet.zip -d webmaps/libs/leaflet/
 
 **Obs:** Para facilitar a vida de quem usa linux criei o arquivo `download_files.sh`
 
+Antes e depois da estilização do wegis
+
+![Antes e Depois](webmaps/images/Antes_e_depois.jpg)
+
 ## Arquivo de configuração
 
 Utilizo um arquivo de configuração para facilitar o trabalho com algumas coisas, como chaves de APIs, dados iniciais e etc. esse arquivo é o `env.js` que deve ser alocado na pasta `webmaps`.
@@ -66,7 +70,7 @@ rm -r webmaps/libs/Leaflet.markercluster-1.4.1/
 
 Para fazer com que o `Leaflet.markercluster` integrasse ao controle de camadas nativo, foi necessário um "sub plugin".
 
-[Página do plugin](https://ghybs.github.io/Leaflet.MarkerCluster.LayerSupport/)
+[Página do plugin](https://ghybs.github.io/Leaflet.Markreturn erCluster.LayerSupport/)
 
 A versão que usei (2.0.1) funciona no leaflet 1.x
 

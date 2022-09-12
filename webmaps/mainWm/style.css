@@ -1,0 +1,143 @@
+:root {
+  --border-color: #6c5e99;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ebece8;
+  height: 100vh;
+  width: 100vw;
+  padding: 5px;
+}
+
+.table-marker-info,
+tr,
+td,
+th {
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #4a8585;
+}
+
+tr {
+  background-color: #ddecec;
+}
+
+tr:nth-child(even) {
+  background-color: #9ad4d4;
+}
+
+.container {
+  align-items: stretch;
+  background-color: #ebece8;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+}
+
+.map {
+  border-bottom: 1px solid var(--border-color);
+  border-radius: 0 10px 0 0;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.map-items-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.legend-container {
+  align-items: stretch;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  height: 150px;
+  justify-content: center;
+}
+
+.legend-item {
+  flex-grow: 1;
+  align-items: center;
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.legend-item:first-child {
+  border-left: 0;
+}
+
+.legend-item:last-child {
+  border-right: 0;
+}
+
+.titulo-site {
+  font-family: Georgia, 'Times New Roman', Times, serif, Helvetica;
+  color: #483c70;
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+.img-legenda {
+  width: 40px;
+}
+
+.legend-icon {
+  font-size: 40px;
+}
+
+.legend-icon.pin {
+  margin-bottom: -35px;
+}
+
+.legend-icon.blue {
+  color: #3388ff;
+}
+
+.legend-item-name {
+  color: #483c70;
+  font-weight: bold;
+}
+
+.legend-item-text {
+  color: #6c5e99;
+}
+
+/* Estilizando os filtros */
+
+.filter-item-container {
+  padding-top: 10px;
+}
+
+.filter-container {
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 10px;
+  width: 250px;
+}
+
+.filter-label {
+  color: #6c5e99;
+}
+
+.filter-item {
+  margin-top: 5px;
+  width: 100%;
+}
