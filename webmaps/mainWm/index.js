@@ -154,7 +154,6 @@ layers['Posicao Inicial'] = L.layerGroup([
   ),
 ]).addTo(map);
 layers[municipio.name] = L.layerGroup(polygonFromGEOJSON(municipio.features));
-console.log(layers[municipio.name])
 const layerControl = L.control
   .layers(baseMaps, layers, { collapsed: true })
   .addTo(map);
